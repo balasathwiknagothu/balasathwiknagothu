@@ -108,15 +108,15 @@ AI chatbot that answers student FAQs using NLP and intent classification.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=balasathwik&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=balasathwiknagothu&show_icons=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=balasathwik" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=balasathwiknagothu" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balasathwik&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balasathwiknagothu&layout=compact" />
 </p>
 
 ---
