@@ -71,7 +71,7 @@ Flask dashboard with an ETL pipeline and ML-based price trend projection.
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=balasathwiknagothu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6D28D9&icon_color=6D28D9&text_color=ffffff&cache_seconds=86400)
+![Stats](https://ghstats.17lai.site/?username=balasathwiknagothu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6D28D9&icon_color=6D28D9&text_color=ffffff)
 ![Streak](https://streak-stats.demolab.com/?user=balasathwiknagothu&theme=tokyonight&hide_border=true&background=0D1117&ring=6D28D9&fire=6D28D9&currStreakLabel=6D28D9)
 
 </div>
@@ -82,8 +82,7 @@ Flask dashboard with an ETL pipeline and ML-based price trend projection.
 
 <div align="center">
 
-![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black) ![Solved](https://img.shields.io/badge/300%2B_SOLVED-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![HackerRank](https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white) ![Badge](https://img.shields.io/badge/SQL_ADVANCED-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black) ![HackerRank](https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
 ![CodeChef](https://img.shields.io/badge/CODECHEF-5B4638?style=for-the-badge&logo=codechef&logoColor=white) ![CP](https://img.shields.io/badge/COMPETITIVE_PROGRAMMING-5B4638?style=for-the-badge)
 
 **📊 LeetCode Stats**
@@ -143,9 +142,10 @@ Flask dashboard with an ETL pipeline and ML-based price trend projection.
 
 <div align="center">
 
-⭐ **Thanks for visiting my profile!**
 If you like my work, consider starring my repositories and connecting with me.
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:1E3A5F,100:4A6FA5&height=150&section=footer)
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:1E3A5F,100:4A6FA5&height=250&section=footer)
+
+⭐ **Thanks for visiting my profile!**
 
 </div>
