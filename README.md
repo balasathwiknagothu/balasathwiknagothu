@@ -108,25 +108,13 @@ Flask dashboard with an ETL pipeline and ML-based price trend projection.
 
 ---
 
-### 💡 Highlights
-
-- 🚀 Built multiple full-stack backend systems (chat engine, URL shortener, ML dashboard)
-- 🤖 Developed a Flask-based ML model for stock price prediction
-- 🔐 Implemented JWT-based Authentication & Authorization
-- 🔌 Designed REST APIs and real-time WebSocket/STOMP endpoints
-- 🗄️ Worked with SQL (MySQL) & NoSQL (MongoDB) databases
-- ☁️ AWS Academy Graduate — Cloud Architecting & Cloud Foundations
-- 🧩 Passionate about backend engineering & scalable system design
-
----
-
 ### 🎖️ Certifications
 
-- 🎖️ **OCI 2025 Certified Generative AI Professional** — Oracle University
-- 🎖️ **OCI 2025 AI Foundations Associate** — Oracle University
-- 🎖️ **AWS Academy Graduate** — Cloud Architecting
-- 🎖️ **AWS Academy Graduate** — Cloud Foundations
-- 🎖️ **Oracle Java SE 21 Developer Professional** — Udemy
+| 🧠 **GenAI Professional** | 🧠 **AI Foundations Associate** | ☁️ **Cloud Architecting** |
+|:---:|:---:|:---:|
+| *Oracle University* | *Oracle University* | *AWS Academy* |
+| ☁️ **Cloud Foundations** | ☕ **Java SE 21 Professional** | 🎖️ **5+ Certs** |
+| *AWS Academy* | *Udemy* | *GenAI + Cloud + Java* |
 
 ---
 
@@ -140,15 +128,24 @@ Flask dashboard with an ETL pipeline and ML-based price trend projection.
 
 ---
 
+### 🤝 Let's Connect
+
 <div align="center">
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=6D28D9&height=150&section=header)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balasathwiknagothu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bala-sathwik-nagothu/)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/balasathwiknagothu)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sathwiknagothu/)
+
+</div>
+
+---
+
+<div align="center">
 
 ⭐ **Thanks for visiting my profile!**
 If you like my work, consider starring my repositories and connecting with me.
 
-[![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bala-sathwik-nagothu/)
-[![Gmail](https://img.shields.io/badge/EMAIL_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balasathwiknagothu@gmail.com)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://balasathwiknagothu.github.io/portfolio/)
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:1E3A5F,100:4A6FA5&height=150&section=footer)
 
 </div>
