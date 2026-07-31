@@ -29,52 +29,20 @@ I'm a **Computer Science Undergraduate at VIT-AP University** with a **9.01 CGPA
 
 ### 🛠️ Tech Stack
 
-**Languages**
+**💻 Programming Languages**
 ![](https://skillicons.dev/icons?i=java,python,c,cpp,js)
 
-**Backend & Cloud**
+**⚙️ Backend Development**
 ![](https://skillicons.dev/icons?i=spring,aws)
 
-**Databases & Web**
-![](https://skillicons.dev/icons?i=mysql,mongodb,html,css)
+**🗄️ Databases**
+![](https://skillicons.dev/icons?i=mysql,mongodb)
 
-**Tools**
+**🎨 Frontend Development**
+![](https://skillicons.dev/icons?i=html,css,js)
+
+**🔧 Tools & Platforms**
 ![](https://skillicons.dev/icons?i=git,github,vscode)
-
----
-
-### 🧩 Competitive Programming
-
-<div align="center">
-
-![LeetCode](https://img.shields.io/badge/300%2B_Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![Streak](https://img.shields.io/badge/50--Day_Streak-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-[![CodeChef](https://img.shields.io/badge/CODECHEF-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/balasathwik)
-[![HackerRank](https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/balasathwik)
-
-</div>
-
----
-
-### 💡 Highlights
-
-- 🚀 Built multiple full-stack backend systems (chat engine, URL shortener, ML dashboard)
-- 🤖 Developed a Flask-based ML model for stock price prediction
-- 🔐 Implemented JWT-based Authentication & Authorization
-- 🔌 Designed REST APIs and real-time WebSocket/STOMP endpoints
-- 🗄️ Worked with SQL (MySQL) & NoSQL (MongoDB) databases
-- ☁️ AWS Academy Graduate — Cloud Architecting & Cloud Foundations
-- 🧩 Passionate about backend engineering & scalable system design
-
----
-
-### 🎖️ Certifications
-
-- 🎖️ **OCI 2025 Certified Generative AI Professional** — Oracle University
-- 🎖️ **OCI 2025 AI Foundations Associate** — Oracle University
-- 🎖️ **AWS Academy Graduate** — Cloud Architecting
-- 🎖️ **AWS Academy Graduate** — Cloud Foundations
-- 🎖️ **Oracle Java SE 21 Developer Professional** — Udemy
 
 ---
 
@@ -105,6 +73,26 @@ Flask dashboard with an ETL pipeline and ML-based price trend projection.
 
 ---
 
+### 🧩 Competitive Programming
+
+<div align="center">
+
+![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black) ![Solved](https://img.shields.io/badge/300%2B_SOLVED-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![HackerRank](https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white) ![Badge](https://img.shields.io/badge/SQL_ADVANCED-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
+![CodeChef](https://img.shields.io/badge/CODECHEF-5B4638?style=for-the-badge&logo=codechef&logoColor=white) ![CP](https://img.shields.io/badge/COMPETITIVE_PROGRAMMING-5B4638?style=for-the-badge)
+
+**📊 LeetCode Stats**
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/sathwiknagothu?theme=dark)
+
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode_Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/sathwiknagothu/)
+[![HackerRank Profile](https://img.shields.io/badge/HackerRank_Profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/balasathwik)
+[![CodeChef Profile](https://img.shields.io/badge/CodeChef_Profile-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/balasathwik)
+
+</div>
+
+---
+
 ### 🏆 Achievements
 
 | 🎓 **CGPA 9.01** | 🥇 **EAMCET Rank 1776** | 🔥 **300+ LC** |
@@ -112,6 +100,28 @@ Flask dashboard with an ETL pipeline and ML-based price trend projection.
 | *VIT-AP University* | *Top 1.1% of state* | *DSA & Algorithms* |
 | 📦 **4+ Projects** | 🏅 **5+ Certs** | ⭐ **HackerRank SQL Advanced** |
 | *Backend + Full-Stack* | *AWS + Oracle GenAI* | *Verified expert-level* |
+
+---
+
+### 💡 Highlights
+
+- 🚀 Built multiple full-stack backend systems (chat engine, URL shortener, ML dashboard)
+- 🤖 Developed a Flask-based ML model for stock price prediction
+- 🔐 Implemented JWT-based Authentication & Authorization
+- 🔌 Designed REST APIs and real-time WebSocket/STOMP endpoints
+- 🗄️ Worked with SQL (MySQL) & NoSQL (MongoDB) databases
+- ☁️ AWS Academy Graduate — Cloud Architecting & Cloud Foundations
+- 🧩 Passionate about backend engineering & scalable system design
+
+---
+
+### 🎖️ Certifications
+
+- 🎖️ **OCI 2025 Certified Generative AI Professional** — Oracle University
+- 🎖️ **OCI 2025 AI Foundations Associate** — Oracle University
+- 🎖️ **AWS Academy Graduate** — Cloud Architecting
+- 🎖️ **AWS Academy Graduate** — Cloud Foundations
+- 🎖️ **Oracle Java SE 21 Developer Professional** — Udemy
 
 ---
 
@@ -127,13 +137,13 @@ Flask dashboard with an ETL pipeline and ML-based price trend projection.
 
 <div align="center">
 
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=6D28D9&height=150&section=header)
+
 ⭐ **Thanks for visiting my profile!**
 If you like my work, consider starring my repositories and connecting with me.
 
 [![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bala-sathwik-nagothu/)
 [![Gmail](https://img.shields.io/badge/EMAIL_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balasathwiknagothu@gmail.com)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://balasathwiknagothu.github.io/portfolio/)
-
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=6D28D9&height=150&section=footer)
 
 </div>
