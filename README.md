@@ -43,6 +43,38 @@ I'm a **Computer Science Undergraduate at VIT-AP University** with a **9.01 CGPA
 
 ---
 
+### 🧩 Competitive Programming
+
+<div align="center">
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/sathwiknagothu?ext=contest&theme=dark)
+
+[![CodeChef](https://img.shields.io/badge/CODECHEF-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/balasathwik)
+[![HackerRank](https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/balasathwik)
+
+</div>
+
+---
+
+### 💡 Highlights
+
+- 🔥 **300+ problems solved** on LeetCode, with a 50-day consistency streak
+- ⭐ **HackerRank SQL (Advanced)** — verified via direct technical assessment
+- 🏆 **AP EAMCET State Rank 1776** — top 1.1% out of 150,000+ candidates
+- 🧵 Comfortable across the backend stack: Java, Spring Boot, REST, WebSockets, SQL & NoSQL
+
+---
+
+### 🎖️ Certifications
+
+- 🎖️ **OCI 2025 Certified Generative AI Professional** — Oracle University
+- 🎖️ **OCI 2025 AI Foundations Associate** — Oracle University
+- 🎖️ **AWS Academy Graduate** — Cloud Architecting
+- 🎖️ **AWS Academy Graduate** — Cloud Foundations
+- 🎖️ **Oracle Java SE 21 Developer Professional** — Udemy
+
+---
+
 ### 🚀 Featured Projects
 
 **[💬 Chat App Backend](https://github.com/balasathwiknagothu/chat-app-backend)**
@@ -90,9 +122,16 @@ Flask dashboard with an ETL pipeline and ML-based price trend projection.
 
 ---
 
+### 💬 Quote
+
+*"Good backend code doesn't announce itself — it just makes everything else work."*
+
+---
+
 <div align="center">
 
-**📫 Let's connect — open to backend & full-stack opportunities.**
+⭐ **Thanks for visiting my profile!**
+If you like my work, consider starring my repositories and connecting with me.
 
 [![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bala-sathwik-nagothu/)
 [![Gmail](https://img.shields.io/badge/EMAIL_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balasathwiknagothu@gmail.com)
