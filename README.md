@@ -30,18 +30,23 @@ I'm a **Computer Science Undergraduate at VIT-AP University** with a **9.01 CGPA
 ### 🛠️ Tech Stack
 
 **💻 Programming Languages**
+
 ![](https://skillicons.dev/icons?i=java,python,c,cpp,js)
 
 **⚙️ Backend Development**
+
 ![](https://skillicons.dev/icons?i=spring,aws)
 
 **🗄️ Databases**
+
 ![](https://skillicons.dev/icons?i=mysql,mongodb)
 
 **🎨 Frontend Development**
+
 ![](https://skillicons.dev/icons?i=html,css,js)
 
 **🔧 Tools & Platforms**
+
 ![](https://skillicons.dev/icons?i=git,github,vscode)
 
 ---
@@ -66,8 +71,8 @@ Flask dashboard with an ETL pipeline and ML-based price trend projection.
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=balasathwiknagothu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6D28D9&icon_color=6D28D9&text_color=ffffff)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=balasathwiknagothu&theme=tokyonight&hide_border=true&background=0D1117&ring=6D28D9&fire=6D28D9&currStreakLabel=6D28D9)
+![Stats](https://github-readme-stats.vercel.app/api?username=balasathwiknagothu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6D28D9&icon_color=6D28D9&text_color=ffffff&cache_seconds=86400)
+![Streak](https://streak-stats.demolab.com/?user=balasathwiknagothu&theme=tokyonight&hide_border=true&background=0D1117&ring=6D28D9&fire=6D28D9&currStreakLabel=6D28D9)
 
 </div>
 
