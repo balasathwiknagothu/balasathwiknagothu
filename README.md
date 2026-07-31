@@ -47,8 +47,8 @@ I'm a **Computer Science Undergraduate at VIT-AP University** with a **9.01 CGPA
 
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/sathwiknagothu?ext=contest&theme=dark)
-
+![LeetCode](https://img.shields.io/badge/300%2B_Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Streak](https://img.shields.io/badge/50--Day_Streak-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 [![CodeChef](https://img.shields.io/badge/CODECHEF-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/balasathwik)
 [![HackerRank](https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/balasathwik)
 
@@ -58,10 +58,13 @@ I'm a **Computer Science Undergraduate at VIT-AP University** with a **9.01 CGPA
 
 ### 💡 Highlights
 
-- 🔥 **300+ problems solved** on LeetCode, with a 50-day consistency streak
-- ⭐ **HackerRank SQL (Advanced)** — verified via direct technical assessment
-- 🏆 **AP EAMCET State Rank 1776** — top 1.1% out of 150,000+ candidates
-- 🧵 Comfortable across the backend stack: Java, Spring Boot, REST, WebSockets, SQL & NoSQL
+- 🚀 Built multiple full-stack backend systems (chat engine, URL shortener, ML dashboard)
+- 🤖 Developed a Flask-based ML model for stock price prediction
+- 🔐 Implemented JWT-based Authentication & Authorization
+- 🔌 Designed REST APIs and real-time WebSocket/STOMP endpoints
+- 🗄️ Worked with SQL (MySQL) & NoSQL (MongoDB) databases
+- ☁️ AWS Academy Graduate — Cloud Architecting & Cloud Foundations
+- 🧩 Passionate about backend engineering & scalable system design
 
 ---
 
@@ -107,7 +110,7 @@ Flask dashboard with an ETL pipeline and ML-based price trend projection.
 | 🎓 **CGPA 9.01** | 🥇 **EAMCET Rank 1776** | 🔥 **300+ LC** |
 |:---:|:---:|:---:|
 | *VIT-AP University* | *Top 1.1% of state* | *DSA & Algorithms* |
-| 📦 **3 Projects** | 🏅 **5+ Certs** | ⭐ **HackerRank SQL Advanced** |
+| 📦 **4+ Projects** | 🏅 **5+ Certs** | ⭐ **HackerRank SQL Advanced** |
 | *Backend + Full-Stack* | *AWS + Oracle GenAI* | *Verified expert-level* |
 
 ---
@@ -122,12 +125,6 @@ Flask dashboard with an ETL pipeline and ML-based price trend projection.
 
 ---
 
-### 💬 Quote
-
-*"Good backend code doesn't announce itself — it just makes everything else work."*
-
----
-
 <div align="center">
 
 ⭐ **Thanks for visiting my profile!**
@@ -136,5 +133,7 @@ If you like my work, consider starring my repositories and connecting with me.
 [![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bala-sathwik-nagothu/)
 [![Gmail](https://img.shields.io/badge/EMAIL_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balasathwiknagothu@gmail.com)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://balasathwiknagothu.github.io/portfolio/)
+
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=6D28D9&height=150&section=footer)
 
 </div>
