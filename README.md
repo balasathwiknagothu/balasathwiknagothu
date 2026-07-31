@@ -55,14 +55,17 @@ I'm a **Computer Science Undergraduate at VIT-AP University** with a **9.01 CGPA
 
 **[💬 Chat App Backend](https://github.com/balasathwiknagothu/chat-app-backend)**
 Real-time WebSocket/STOMP chat engine, JWT-secured handshake, multi-room persistence.
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **[🔗 Secure URL Shortener](https://github.com/balasathwiknagothu/url-shortener)**
 Base62-encoded, collision-free short links with sub-10ms redirect latency.
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 **[📈 Stock Price Prediction Dashboard](https://github.com/balasathwiknagothu/stock-price-prediction)**
 Flask dashboard with an ETL pipeline and ML-based price trend projection.
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ---
