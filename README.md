@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1000&color=6D28D9&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Bala+Sathwik+Nagothu;Backend+Developer+%7C+Java+%2B+Spring+Boot;Building+Real-Time+%26+Secure+Systems;300%2B+LeetCode+Problems+Solved)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1000&color=6D28D9&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Bala+Sathwik+Nagothu;Backend+Developer+%7C+Java+%2B+Spring+Boot;Building+Real-Time+%26+Secure+Systems;400%2B+LeetCode+Problems+Solved)](https://git.io/typing-svg)
 
 **Backend Developer • CS Undergrad @ VIT-AP (9.01 CGPA)**
 
