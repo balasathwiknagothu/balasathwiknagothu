@@ -22,7 +22,7 @@ I'm a **Computer Science Undergraduate at VIT-AP University** with a **9.01 CGPA
 - 💬 Built a **real-time chat backend** with JWT-secured WebSocket handshakes
 - ☁️ Verified **AWS Academy Graduate** — Cloud Architecting & Cloud Foundations
 - 🧠 **Oracle GenAI Professional** & OCI AI Foundations Associate
-- 🧩 **300+ LeetCode** problems solved, 50-day consistency streak
+- 🧩 **400+ LeetCode** problems solved, 50-day consistency streak
 - 🎯 Seeking **Backend / Full-Stack** roles & internships (B.Tech 2027)
 
 ---
@@ -85,7 +85,7 @@ Flask dashboard with an ETL pipeline and ML-based price trend projection.
 
 <div align="center">
 
-![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black) ![Solved](https://img.shields.io/badge/300%2B_SOLVED-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black) ![Solved](https://img.shields.io/badge/400%2B_SOLVED-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![HackerRank](https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white) ![Badge](https://img.shields.io/badge/SQL_ADVANCED-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
 ![CodeChef](https://img.shields.io/badge/CODECHEF-5B4638?style=for-the-badge&logo=codechef&logoColor=white) ![CP](https://img.shields.io/badge/COMPETITIVE_PROGRAMMING-5B4638?style=for-the-badge)
 
@@ -103,7 +103,7 @@ Flask dashboard with an ETL pipeline and ML-based price trend projection.
 
 ### 🏆 Achievements
 
-| 🎓 **CGPA 9.01** | 🥇 **EAMCET Rank 1776** | 🔥 **300+ LC** |
+| 🎓 **CGPA 9.01** | 🥇 **EAMCET Rank 1776** | 🔥 **400+ LC** |
 |:---:|:---:|:---:|
 | *VIT-AP University* | *Top 1.1% of state* | *DSA & Algorithms* |
 | 📦 **4+ Projects** | 🏅 **5+ Certs** | ⭐ **HackerRank SQL Advanced** |
